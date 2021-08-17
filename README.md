@@ -26,8 +26,6 @@
 
 
 
-  Video on how to run: https://drive.google.com/file/d/1Ba7pVSygM942GNBA4f52hvs9Abzb2z5F/view
-
   
   ## Credits 
   No collaborators were working on this project
