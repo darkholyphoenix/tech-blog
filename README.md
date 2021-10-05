@@ -15,16 +15,9 @@
   ## Usage 
   This blog is for all those that wish to help expand the knowledge of technology by posting blogs and allowing others to comment on.
 
-  You can test it out at: https://darkholyphoenix.github.io/tech-blog/
+  You can test it out at: https://obscure-plains-17121.herokuapp.com/
 
-  ![Screenshot (188)](https://user-images.githubusercontent.com/47751469/129494627-7f8cec81-b689-45b2-8e9c-75d1105fa55d.png)
-
-  
-  ![Screenshot (189)](https://user-images.githubusercontent.com/47751469/129494632-80a2006f-59bf-4b2d-8ec3-25939e98c52c.png)
-
-  ![Screenshot (190)](https://user-images.githubusercontent.com/47751469/129494642-ceeaef56-fc45-48e6-8290-b1c422b9744c.png)
-
-
+  ![Screenshot (262)](https://user-images.githubusercontent.com/47751469/135943501-73d0f518-2ab5-48c2-91fb-69e60036cefe.png)
 
   
   ## Credits 
